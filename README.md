@@ -10,7 +10,7 @@ Customizable Volume: Adjust the volume using the heart buttons, each representin
 
 Rounded Corners: The player window features rounded corners for a modern and cozy look.
 
-###Drag-and-Drop Slider: Easily navigate through the track using a draggable slider that updates the playback position in real-time.
+*Drag-and-Drop Slider: Easily navigate through the track using a draggable slider that updates the playback position in real-time.
 
 Track Information: Display the current track's name and album art in a visually pleasing layout.
 
